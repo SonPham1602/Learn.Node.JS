@@ -1,0 +1,18 @@
+ [
+  {
+    "apiUserAgent":"Android-Finsky/14.3.18-all (versionCode=81431800,sdk=19,device=hammerhead,hardware=hammerhead,product=hammerhead,build=KTU84P:user)",
+    "downloadUserAgent":"AndroidDownloadManager/4.4.4 (Linux; U; Android 4.4.4; Build/KTU84P)"
+  },
+  {
+    "apiUserAgent":"Android-Finsky/14.3.18-all (versionCode=81431800,sdk=21,device=kltektt,hardware=qcom,product=kltektt,build=LRX21T:user)",
+    "downloadUserAgent":"AndroidDownloadManager/5.0 (Linux; U; Android 5.0; Build/LRX21T)"
+  },
+  {
+    "apiUserAgent":"Android-Finsky/14.3.18-all (versionCode=81431800,sdk=24,device=herolte,hardware=samsungexynos8890,product=herolte,build=NRD90M:user)",
+    "downloadUserAgent":"AndroidDownloadManager/7.0 (Linux; U; Android 7.0; Build/NRD90M)"
+  },
+  {
+    "apiUserAgent" : "Android-Finsky/14.2.58-all (versionCode=81425800,sdk=25,device=shamu,hardware=shamu,product=shamu,build=N6F27M:user)",
+    "downloadUserAgent": "AndroidDownloadManager/7.1.1 (Linux; U; Android 7.1.1; Build/N6F27M)"
+  }
+]
